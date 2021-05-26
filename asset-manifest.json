@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/meta-tags-react/static/css/main.1635e87c.chunk.css",
+    "main.js": "/meta-tags-react/static/js/main.b8ee4d5a.chunk.js",
+    "main.js.map": "/meta-tags-react/static/js/main.b8ee4d5a.chunk.js.map",
+    "runtime-main.js": "/meta-tags-react/static/js/runtime-main.ac382d35.js",
+    "runtime-main.js.map": "/meta-tags-react/static/js/runtime-main.ac382d35.js.map",
+    "static/js/2.4951a470.chunk.js": "/meta-tags-react/static/js/2.4951a470.chunk.js",
+    "static/js/2.4951a470.chunk.js.map": "/meta-tags-react/static/js/2.4951a470.chunk.js.map",
+    "index.html": "/meta-tags-react/index.html",
+    "static/css/main.1635e87c.chunk.css.map": "/meta-tags-react/static/css/main.1635e87c.chunk.css.map",
+    "static/js/2.4951a470.chunk.js.LICENSE.txt": "/meta-tags-react/static/js/2.4951a470.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/meta-tags-react/static/media/logo.6ce24c58.svg",
+    "static/media/sumate_a_nuestro_equipo.b85a2537.jpg": "/meta-tags-react/static/media/sumate_a_nuestro_equipo.b85a2537.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac382d35.js",
+    "static/js/2.4951a470.chunk.js",
+    "static/css/main.1635e87c.chunk.css",
+    "static/js/main.b8ee4d5a.chunk.js"
+  ]
+}
