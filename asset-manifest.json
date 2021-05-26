@@ -1,12 +1,14 @@
 {
   "files": {
     "main.css": "/jhoni-metatags/static/css/main.1635e87c.chunk.css",
-    "main.js": "/jhoni-metatags/static/js/main.b8ee4d5a.chunk.js",
-    "main.js.map": "/jhoni-metatags/static/js/main.b8ee4d5a.chunk.js.map",
-    "runtime-main.js": "/jhoni-metatags/static/js/runtime-main.c8cf2da2.js",
-    "runtime-main.js.map": "/jhoni-metatags/static/js/runtime-main.c8cf2da2.js.map",
+    "main.js": "/jhoni-metatags/static/js/main.5ef029f4.chunk.js",
+    "main.js.map": "/jhoni-metatags/static/js/main.5ef029f4.chunk.js.map",
+    "runtime-main.js": "/jhoni-metatags/static/js/runtime-main.c04df5e1.js",
+    "runtime-main.js.map": "/jhoni-metatags/static/js/runtime-main.c04df5e1.js.map",
     "static/js/2.4951a470.chunk.js": "/jhoni-metatags/static/js/2.4951a470.chunk.js",
     "static/js/2.4951a470.chunk.js.map": "/jhoni-metatags/static/js/2.4951a470.chunk.js.map",
+    "static/js/3.08fec0bd.chunk.js": "/jhoni-metatags/static/js/3.08fec0bd.chunk.js",
+    "static/js/3.08fec0bd.chunk.js.map": "/jhoni-metatags/static/js/3.08fec0bd.chunk.js.map",
     "index.html": "/jhoni-metatags/index.html",
     "static/css/main.1635e87c.chunk.css.map": "/jhoni-metatags/static/css/main.1635e87c.chunk.css.map",
     "static/js/2.4951a470.chunk.js.LICENSE.txt": "/jhoni-metatags/static/js/2.4951a470.chunk.js.LICENSE.txt",
@@ -14,9 +16,9 @@
     "static/media/sumate_a_nuestro_equipo.b85a2537.jpg": "/jhoni-metatags/static/media/sumate_a_nuestro_equipo.b85a2537.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c8cf2da2.js",
+    "static/js/runtime-main.c04df5e1.js",
     "static/js/2.4951a470.chunk.js",
     "static/css/main.1635e87c.chunk.css",
-    "static/js/main.b8ee4d5a.chunk.js"
+    "static/js/main.5ef029f4.chunk.js"
   ]
 }
