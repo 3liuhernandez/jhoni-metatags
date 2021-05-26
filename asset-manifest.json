@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/jhoni-metatags/static/css/main.1635e87c.chunk.css",
-    "main.js": "/jhoni-metatags/static/js/main.5ef029f4.chunk.js",
-    "main.js.map": "/jhoni-metatags/static/js/main.5ef029f4.chunk.js.map",
+    "main.js": "/jhoni-metatags/static/js/main.a29543ad.chunk.js",
+    "main.js.map": "/jhoni-metatags/static/js/main.a29543ad.chunk.js.map",
     "runtime-main.js": "/jhoni-metatags/static/js/runtime-main.c04df5e1.js",
     "runtime-main.js.map": "/jhoni-metatags/static/js/runtime-main.c04df5e1.js.map",
     "static/js/2.4951a470.chunk.js": "/jhoni-metatags/static/js/2.4951a470.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.c04df5e1.js",
     "static/js/2.4951a470.chunk.js",
     "static/css/main.1635e87c.chunk.css",
-    "static/js/main.5ef029f4.chunk.js"
+    "static/js/main.a29543ad.chunk.js"
   ]
 }
