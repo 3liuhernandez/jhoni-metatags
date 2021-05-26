@@ -8,7 +8,7 @@ import imagen_promo from './images/sumate_a_nuestro_equipo.jpg'
 function App() {
   return (
     <>
-      {/* <Helmet>
+      <Helmet>
           <title>Buscamos Gente</title>
           <meta property="og:url" content="https://rrhh.balanz.com/aplicar/33" />
           <meta property="og:type" content="website" />
@@ -17,8 +17,8 @@ function App() {
           <meta property="og:image" content={imagen_promo} />
           
           <link rel="canonical" href="http://mysite.com/example" />
-          </Helmet> */}
-          <Helmet>
+          </Helmet>
+          {/* <Helmet>
             <title>gomuf Es</title>
             <meta name="title" content="gomuf Es" />
             <meta name="description" content="esta es una descripcion" />
@@ -35,7 +35,7 @@ function App() {
             <meta property="twitter:description" content="esta es una descripcion" />
             <meta property="twitter:image" content={imagen_promo} />
 
-        </Helmet>
+        </Helmet> */}
       <div className="App">
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
